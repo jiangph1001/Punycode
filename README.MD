@@ -1,4 +1,10 @@
 
+### Python3 支持
+
+已修改为python3的运行`main.py`  
+`produce.py`因暂不需要尚未修改完全，目前输出的是16进制
+
+
 ## Punycode 字符生成 与 字符替换
 
 ### Punycode 是什么
@@ -20,13 +26,10 @@ Punycode（译为：域名代码）是一种表示Unicode码和ASCII码的有限
 
 ### 生成、替换效果
 
-> python2.7 main.py
+> python3 main.py
 
 ![img.png](image/img_1.png)
 
-> python2.7 produce.py
-
-![img.png](image/img.png)
 
 
 
